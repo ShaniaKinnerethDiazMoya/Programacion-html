@@ -1,6 +1,5 @@
 function calcularEdad(AnioActual){
 	alert("Tu edad es " + (2023-AnioActual) + " años");
-	
 }
 function saludar(nombre){
 	alert("Hola mundo " + nombre + " desde Javascript");
