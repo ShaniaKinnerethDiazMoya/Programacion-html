@@ -4,7 +4,6 @@ function calcularEdad(AnioActual){
 }
 function saludar(nombre){
 	alert("Hola mundo " + nombre + " desde Javascript");
-	
 }
 function variable(){
 	
