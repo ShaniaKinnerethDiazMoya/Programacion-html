@@ -7,6 +7,7 @@ function saludar(nombre){
 	
 }
 function variable(){
+	
 	/*
 	hay 3 formas de declarar una variable 
 	1)var: Declarar variables pero permite una redeclaracion
